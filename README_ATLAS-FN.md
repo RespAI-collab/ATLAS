@@ -210,4 +210,4 @@ The software licence applies only to code for which the authors hold redistribut
 
 ## Contact
 
-For questions about the computational workflow or reproducibility package, please use the repository issue tracker or contact the corresponding author listed in the manuscript.
+For questions about the computational workflow or reproducibility package, please use the repository issue tracker or contact the corresponding author listed in the manuscript d.tjondronegoro@griffith.edu.au
